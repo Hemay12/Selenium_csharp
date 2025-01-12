@@ -102,3 +102,4 @@ D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.pdb
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.genruntimeconfig.cache
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\ref\SeleniumAutomation.dll
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.sourcelink.json
+D:\SeleniumAutomation\SeleniumAutomation\bin\Debug\net8.0\WebDriver.Support.dll

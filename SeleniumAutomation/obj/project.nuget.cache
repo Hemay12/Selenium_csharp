@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ce1DEwjGv7U=",
+  "dgSpecHash": "Nom9/eiBnKM=",
   "success": true,
   "projectFilePath": "D:\\SeleniumAutomation\\SeleniumAutomation\\SeleniumAutomation.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\rites\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
     "C:\\Users\\rites\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
     "C:\\Users\\rites\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\rites\\.nuget\\packages\\selenium.support\\4.27.0\\selenium.support.4.27.0.nupkg.sha512",
     "C:\\Users\\rites\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
     "C:\\Users\\rites\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
