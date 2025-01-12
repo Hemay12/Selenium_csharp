@@ -101,3 +101,4 @@ D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\refint\SeleniumAutomat
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.pdb
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.genruntimeconfig.cache
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\ref\SeleniumAutomation.dll
+D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.sourcelink.json
