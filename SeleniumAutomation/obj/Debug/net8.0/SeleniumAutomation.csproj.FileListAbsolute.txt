@@ -103,3 +103,4 @@ D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.gen
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\ref\SeleniumAutomation.dll
 D:\SeleniumAutomation\SeleniumAutomation\obj\Debug\net8.0\SeleniumAutomation.sourcelink.json
 D:\SeleniumAutomation\SeleniumAutomation\bin\Debug\net8.0\WebDriver.Support.dll
+D:\SeleniumAutomation\SeleniumAutomation\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
